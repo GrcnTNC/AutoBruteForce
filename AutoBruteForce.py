@@ -2,7 +2,6 @@ import telnetlib
 import paramiko
 #import _mysql
 #Aracı Geliştirenler:
-#Ozancan Ertem
 #Gürcan Tunca
 #Anıl Baran Yelken
 import time
